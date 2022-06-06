@@ -1,7 +1,12 @@
 import React from "react";
+import Product from './Product/Product'
 
 const Products = () => {
-  return <div>{/* Code here */}</div>;
+  return <div>
+
+   Products
+    <Product />
+  </div>;
 };
 
 export default Products;
